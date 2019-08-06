@@ -1,2 +1,2 @@
 # robot_manipulator
-coustom built robotic manipulator
+custom built robotic manipulator
